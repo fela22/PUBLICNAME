@@ -1,0 +1,35 @@
+Nunzio DAmelio & Fela Fieulleteau & Dean Beck
+
+
+HOW TO RUN
+-Install all Files and Folders under desired folder
+  -Make sure files and folders are downloaded and seperate as they are in the github
+
+-CreateDB 'test'          (will change in the future)
+  -Run   \i schema.sql
+  -All tables, views, and data should be inserted
+
+-In terminal in same directory run   "  python.app  "
+  - Open up Link
+
+
+CURRENT IMPLEMENTATIONS
+-Home page with links to other pages
+
+-Family_Tree Page
+  -Can see full family_tree table
+    "animal id, sire, dam"
+
+
+NEXT
+
+-Fix data files, timestamp still wrong
+-Once timestamp issues fix can cut out excess data.
+-Create other pages
+  -Goat_Health
+  -Goat_Ranking
+
+-Need to create point system to rank the goats and add it.
+
+
+

@@ -1,0 +1,26 @@
+picklistvalue_id,picklist_id,value
+230,17,Vigor Score
+242,17,Sore Mouth
+357,17,BWT
+475,17,Dam Milk
+476,101,1 Good Milk
+477,101,2 Poor Milk
+478,101,3 No Milk
+486,17,Num of Kids
+487,103,1 Single
+488,103,2 Twins
+489,103,3 Triplets
+490,103,4 Quads
+495,17,AUS Vigour
+501,17,AUS Mother Score
+502,106,1 Doe stays close
+503,106,2 Doe Retreats
+504,106,3 Ret Dif toRead 3-6
+505,106,4 Doe retreats 6plus
+506,106,5 Doe Flees
+737,16,Chlymidia/lepto/vibr
+740,17,MOTHERING
+935,17,Mother
+936,180,Good Mom
+937,180,Slow to Mother
+938,180,Inattentive
